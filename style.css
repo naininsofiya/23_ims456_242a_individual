@@ -1,0 +1,23 @@
+h1
+{
+    color: rgb(255, 72, 133);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    font-weight: 1000;
+    font-style: oblique;
+}
+
+body
+{
+    background-color: black;
+}
+
+a 
+{
+    text-decoration: none;
+    font-family: monospace;
+    font-size: larger;
+    color: rgb(245, 162, 198);
+    padding: 60px;
+    
+}
